@@ -1,0 +1,12 @@
+name: MOTD
+version: ${project.version}
+main: me.jdog.motd.MOTD
+depend: [murAPI]
+authors: [Muricans]
+description: Recreating my old plugin 'MOTD' but for updated versions of Minecraft since it broke.
+website: https://commonly.github.io
+commands:
+  motd:
+    permission: motd.admin
+    permission-message: No permission.
+    usage: /<command> <args>

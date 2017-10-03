@@ -1,0 +1,13 @@
+#Placeholders: %player%
+motd: # Welcome message
+  use: true # Use this feature?
+  message: '&cWelcome to the server! %player%' # Message for when the player joins the server
+actionbar:
+  use: true # Use this feature?
+  message: '&cWelcome to the server! %player%' # Message for when the player joins the server
+join:
+  showplayerjoinmessage: true # Show the message when the player joins the game?
+  playerjoinmessage: '&7[&b+&7] &a%player%' # Message for when the player joins the server
+leave:
+  showplayerleavemessage: true # Show the message when the player leaves the game?
+  playerleavemessage: '&7[&c-&7] &a%player%' # Message for when the player leaves the server
