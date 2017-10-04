@@ -1,4 +1,6 @@
-# MOTD
-https://www.spigotmc.org/resources/motd-comes-with-an-api-and-more.15032/
-Click that to see how to use the API in here! https://www.spigotmc.org/resources/titleapi.1325/ Click that for TitleAPI usage!<hr> You may not re-distribute this plugin. You cannot use the API without saying that I helped in some of it.<hr>
-<a href="https://www.spigotmc.org/resources/motd-comes-with-an-api-and-more.15032/">MOTD</a><hr> Fore more info, please visit the <a href="https://github.com/FireeSpigot/MOTD/wiki/API">wiki</a>.
+## MOTD
+https://www.spigotmc.org/resources/motd.15032/
+# Download
+https://github.com/Commonly/MOTD-1.8-1.11.2/blob/master/target/MOTD.jar?raw=true
+# TOS
+This is free and open source, so if you want to use the code please credit me! 1. Do NOT repost the plugin! 2. Try to credit me. 3. This is free, so don't repost as a premium plugin/if you use the code from this (even a little bit) it must be free.
