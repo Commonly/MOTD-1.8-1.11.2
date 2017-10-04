@@ -1,3 +1,4 @@
+me\jdog\motd\commands\MOTDCommand.class
 me\jdog\motd\events\PlayerLeave.class
 me\jdog\motd\MOTD.class
 me\jdog\motd\events\PlayerJoin.class

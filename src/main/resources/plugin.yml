@@ -10,3 +10,4 @@ commands:
     permission: motd.admin
     permission-message: No permission.
     usage: /<command> <args>
+    description: MOTD admin command.

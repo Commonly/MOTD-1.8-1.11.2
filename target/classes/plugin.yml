@@ -1,5 +1,5 @@
 name: MOTD
-version: 1.8.1
+version: 2.9.1
 main: me.jdog.motd.MOTD
 depend: [murAPI]
 authors: [Muricans]
@@ -10,3 +10,4 @@ commands:
     permission: motd.admin
     permission-message: No permission.
     usage: /<command> <args>
+    description: MOTD admin command.
